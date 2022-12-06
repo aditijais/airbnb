@@ -21,7 +21,11 @@ nav {
 }
 
 .nav--logo {
-  max-width: 100px;
+  max-width:100%;
+  font-size: 36px;
+  height:2cm;
+  width:4cm;
+  
 }
 
 section {
